@@ -17,12 +17,14 @@ jobs:
     timeout-minutes: 5
     steps:
       - name: Generate contribution snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: dev-guiferreira
+          github_token: ${{ secrets.SNAKE_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
       - name: Publish snake animation
         uses: crazy-max/ghaction-github-pages@v4
         with:
@@ -30,5 +32,3 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-# Regenerate the animation from the current GitHub contribution calendar.
