@@ -101,15 +101,11 @@ Atualmente, estou aprofundando meus conhecimentos em **Java, Python e MySQL**. T
 ## 🐍 Minhas contribuições
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-guiferreira/dev-guiferreira/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-guiferreira/dev-guiferreira/output/github-contribution-grid-snake.svg">
-    <img
-      alt="Animação original da cobrinha comendo o gráfico de contribuições do GitHub"
-      src="https://raw.githubusercontent.com/dev-guiferreira/dev-guiferreira/output/github-contribution-grid-snake.svg"
-      width="100%"
-    />
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/dev-guiferreira/dev-guiferreira/main/assets/contribution-snake-119.svg?v=3"
+    width="100%"
+    alt="Cobrinha verde animada comendo 119 quadradinhos"
+  />
 </div>
 ---
 
