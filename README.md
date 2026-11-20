@@ -102,8 +102,8 @@ Atualmente, estou aprofundando meus conhecimentos em **Java, Python e MySQL**. T
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-guiferreira/dev-guiferreira/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-guiferreira/dev-guiferreira/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-guiferreira/dev-guiferreira/output/github-contribution-grid-snake-dark.svg?v=20261120">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-guiferreira/dev-guiferreira/output/github-contribution-grid-snake.svg?v=20261120">
     <img alt="Animação da cobra percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/dev-guiferreira/dev-guiferreira/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
