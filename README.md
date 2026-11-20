@@ -98,6 +98,18 @@ Atualmente, estou aprofundando meus conhecimentos em **Java, Python e MySQL**. T
 
 ---
 
+## 🐍 Minhas contribuições
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev-guiferreira/dev-guiferreira/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev-guiferreira/dev-guiferreira/output/github-contribution-grid-snake.svg">
+    <img alt="Animação da cobra percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/dev-guiferreira/dev-guiferreira/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
 ## 📫 Contato
 
 <div align="center">
