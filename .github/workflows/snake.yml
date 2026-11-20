@@ -1,3 +1,4 @@
+# Rebuild requested after updating SNAKE_TOKEN
 name: Generate contribution snake
 
 on:
