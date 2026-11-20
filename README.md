@@ -102,9 +102,9 @@ Atualmente, estou aprofundando meus conhecimentos em **Java, Python e MySQL**. T
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/dev-guiferreira/dev-guiferreira/main/assets/contribution-snake-119.svg?v=3"
+    src="https://raw.githubusercontent.com/dev-guiferreira/dev-guiferreira/output/github-contribution-grid-snake.svg"
     width="100%"
-    alt="Cobrinha verde animada comendo 119 quadradinhos"
+    alt="Cobrinha animada do calendário de contribuições do GitHub"
   />
 </div>
 ---
