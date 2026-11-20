@@ -3,7 +3,7 @@
   <img
     width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&color=0:080D1A,50:102A43,100:00B4D8&height=190&section=header&text=Guilherme%20Ferreira&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20Back-end%20em%20forma%C3%A7%C3%A3o&descAlignY=60&descSize=16"
-    alt="Banner de Guilherme Ferreira"
+    alt="Guilherme Ferreira"
   />
 </div>
 
