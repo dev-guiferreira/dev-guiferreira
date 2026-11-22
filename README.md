@@ -11,7 +11,7 @@
   <a href="https://github.com/dev-guiferreira">
     <img src="https://img.shields.io/badge/GitHub-dev--guiferreira-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https:/portfolio-guiferreira.netlify.app/">
+  <a href="https://portfolio-guiferreira.netlify.app/">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-Acessar-0E7490?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
   </a>
 </div>
@@ -103,16 +103,15 @@ Atualmente, estou aprofundando meus conhecimentos em **Java, Python e MySQL**. T
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/dev-guiferreira/dev-guiferreira/output/github-contribution-grid-snake.svg"
-    width="100%"
+    width="100%" color="black"
     alt="Cobrinha animada do calendário de contribuições do GitHub"
   />
 </div>
----
 
 ## 📫 Contato
 
 <div align="center">
- <a href="https:/portfolio-guiferreira.netlify.app/">
+ <a href="https://portfolio-guiferreira.netlify.app/">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-0E7490?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
   </a>
   <a href="https://github.com/dev-guiferreira">
