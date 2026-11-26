@@ -28,8 +28,8 @@ Atualmente, estou aprofundando meus conhecimentos em **Java, Python e MySQL**. T
 
 - 🎓 Análise e Desenvolvimento de Sistemas — FATEC Araçatuba
 - 💻 Foco atual: desenvolvimento back-end
-- 📚 Estudando: Java, Python, MySQL e orientação a objetos
-- 🔐 Interesse adicional: cibersegurança
+- 📚 Estudando: Java, Python, PHP e MySQL
+- 🔐 Linux & Cibersegurança
 - 🚀 Objetivo: evoluir por meio de projetos práticos e desafios reais
 
 ---
